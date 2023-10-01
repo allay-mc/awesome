@@ -20,7 +20,7 @@
 ### Conversion
 
 - [transformjson](https://github.com/allay-mc/scripts/blob/master/transformjson.rb)
-- [yaml_to_json.rb](https://github.com/allay-mc/scripts/blob/master/yaml_to_json.rb)
+- [yaml_to_json](https://github.com/allay-mc/scripts/blob/master/yaml_to_json.rb)
 
 
 ### Language Extensions
