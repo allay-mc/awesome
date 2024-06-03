@@ -19,8 +19,8 @@
 
 ### Conversion
 
-- [transformjson](https://github.com/allay-mc/scripts/blob/master/transformjson.rb)
-- [yaml_to_json](https://github.com/allay-mc/scripts/blob/master/yaml_to_json.rb)
+- [transformjson](https://github.com/allay-mc/plugins/tree/master/plugins/transformjson)
+- [yaml_to_json](https://github.com/allay-mc/plugins/tree/master/plugins/yaml-to-json)
 
 
 ### Language Extensions
@@ -28,4 +28,4 @@
 
 ### Templating
 
-- [templating](https://github.com/allay-mc/scripts/blob/master/templating.rb) — ERB templating
+- [templating](https://github.com/allay-mc/plugins/tree/master/plugins/templating) — ERB templating
