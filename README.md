@@ -11,6 +11,7 @@
 
 - [Scripts](#scripts)
   - [Conversion](#conversion) — Convert between file formats.
+  - [Filesystem](#file-system) — Managing files within Allay project.
   - [Language Extensions](#language-extensions) — Extend Minecraft-specific languages like `mcfunction`
   - [Templating](#templating) — Usage of template engines.
 
@@ -21,6 +22,11 @@
 
 - [transformjson](https://github.com/allay-mc/plugins/tree/master/plugins/transformjson)
 - [yaml_to_json](https://github.com/allay-mc/plugins/tree/master/plugins/yaml-to-json)
+
+
+### File System
+
+- [exclude](https://github.com/allay-mc/plugins/tree/master/plugins/exclude)
 
 
 ### Language Extensions
